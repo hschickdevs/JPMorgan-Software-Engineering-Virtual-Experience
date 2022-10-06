@@ -6,3 +6,14 @@ ___
 ## Virtual Experience Link:
 
 https://www.theforage.com/virtual-internships/prototype/R5iK7HMxJGBgaSbvk/JP-Morgan-Banking-Technology-Virtual-Program?ref=4AiKNGoEiBmcRxP9M#lp
+
+## Tasks Breakdown
+
+### Task 1:
+*  Set up your system with Git, GitHub, and the necessary tools.
+
+### Task 2:
+
+### Task 3:
+
+### Task 4:
