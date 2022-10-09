@@ -9,7 +9,8 @@ https://www.theforage.com/virtual-internships/prototype/R5iK7HMxJGBgaSbvk/JP-Mor
 
 ## Tasks Breakdown
 
-### <u>**Task 1:**</u>
+### **[Task 1:](./Task%201/)**
+___
 
 Overview:
 * A trader has requested the development of a chart to add to their trading dashboard, allowing them to better identify improperly valued stocks using correlation coefficients.
@@ -33,8 +34,30 @@ In client.py:
 In requirements.txt:
 - Added  pandas as a package requirement
 
-### <u>**Task 2:**</u>
+### **[Task 2:](./Task%202/)**
+___
 
-### <u>**Task 3:**</u>
+Overview:
+* The main objective of the task is to fix the client-side web application so that it displays a price graph that automatically updates as it gets data from the server-side application.
+* In this task we work with JavaScript (TypeScript, NodeJS, React) and Python.
 
-### <u>**Task 4:**</u>
+Objectives:
+1. Set up local dev environment 
+2. Fix the broken typescript files in the project repo to make the web application output correctly
+3. Push changes and submit work.
+
+**Changes Made after Task Completion:**
+
+In /src/App.tsx:
+- Implemented the setInterval() JavaScript method to continuously fetch data from the API.
+- Implemented functionality to render react Graph component.
+
+In /src/Graph.tsx:
+- Implemented React Graph component to display live-streamed stock price data.
+
+
+### **[Task 3:](./Task%203/)**
+___
+
+### **[Task 4:](./Task%204/)**
+___
