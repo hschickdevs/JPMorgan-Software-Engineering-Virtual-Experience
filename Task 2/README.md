@@ -3,7 +3,7 @@
 ### Setup Instructions:
 
 **Requirements:**
-* Node >= 18.0.0
+* NodeJS >= 18.0.0
 * Python3
 
 **Setup:**

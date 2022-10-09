@@ -2,6 +2,8 @@
 ___
 
  Throughout the virtual experience, I familiarized yourself with JPMorgan Chase frameworks and applied my technical skills to a hypothetical request from the firm’s trading floor to analyze and visualize data in a new way.
+ 
+ Technologies used include: Python (Pandas, Flask), HTML/CSS, JavaScript (React, NodeJS, TypeScript), Git & GitHub
 
 ## Virtual Experience Link:
 
@@ -59,5 +61,33 @@ In /src/Graph.tsx:
 ### **[Task 3:](./Task%203/)**
 ___
 
-### **[Task 4:](./Task%204/)**
+Overview:
+* The main objective of the task is to create a clear and concise dashboard that displays stock correlation data from the server-side application in a visually appealing graph.
+* Given this graph, trader's should be able to quickly identify which stocks are over/under-valued based on the ratio moving from the average historical correlation. These movements from historical correlation averages can be measured by upper and lower bounds to determine the trading opportunity.
+* In this task we work with JavaScript (TypeScript, NodeJS, React) and Python.
+
+Objectives:
+1. Set up local dev environment 
+2. Fix the broken typescript files in the project repo to make the web application output correctly
+3. Push changes and submit work.
+
+**Changes Made after Task Completion:**
+
+Reconfigured the React application from Task 2 to display a dashboard to display stock correlations and bounds trading opportunities. Screenshot below:
+
+![Dashboard](./Task%203/img/screenshot.png)
+
+In src/Graph.tsx:
+- Reconfigured the existing React Graph component to monitor the ratio of two stocks against the historical correlation with upper and lower bounds. Upper bound = 5% positive deviation, lower bound = 5% negative deviation
+
+In src/DataManipulator.ts:
+-  Refactored the generateRow function to process the new data to output to the correlation graph.
+- Modified the Row interface to represent the new graph attributes.
+
+### **[Task 4 (Bonus Task):](./Task%204/)**
 ___
+
+Overview:
+* Make a contribution to Perspective or other project backlogs.
+
+*In Progress*
