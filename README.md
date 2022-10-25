@@ -1,4 +1,4 @@
-![JPM Logo](https://1000logos.net/wp-content/uploads/2020/04/J.P.-Morgan-Chase-Logo.png)
+![JPM Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/JPMorgan_Chase.svg/1280px-JPMorgan_Chase.svg.png)
 ___
 
  Throughout the virtual experience, I familiarized yourself with JPMorgan Chase frameworks and applied my technical skills to a hypothetical request from the firm’s trading floor to analyze and visualize data in a new way.
