@@ -1,7 +1,7 @@
 ![JPM Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/JPMorgan_Chase.svg/1280px-JPMorgan_Chase.svg.png)
 ___
 
- Throughout the virtual experience, I familiarized yourself with JPMorgan Chase frameworks and applied my technical skills to a hypothetical request from the firm’s trading floor to analyze and visualize data in a new way.
+ Throughout the virtual experience, I familiarized myself with JPMorgan Chase frameworks and applied my technical skills to a hypothetical request from the firm’s trading floor to analyze and visualize data in a new way.
  
  Technologies used include: Python (Pandas, Flask), HTML/CSS, JavaScript (React, NodeJS, TypeScript), Git & GitHub
 
