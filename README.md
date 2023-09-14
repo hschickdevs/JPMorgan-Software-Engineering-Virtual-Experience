@@ -83,11 +83,3 @@ In src/Graph.tsx:
 In src/DataManipulator.ts:
 -  Refactored the generateRow function to process the new data to output to the correlation graph.
 - Modified the Row interface to represent the new graph attributes.
-
-### **[Task 4 (Bonus Task):](./Task%204/)**
-___
-
-Overview:
-* Make a contribution to Perspective or other project backlogs.
-
-*In Progress*
